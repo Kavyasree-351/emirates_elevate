@@ -3,6 +3,9 @@
 > **An independent aviation fleet retrofit analytics prototype**  
 > *Developed as a portfolio project for the Emirates Group Elevate Internship (Strategy, Data & Technology track).*
 
+# check the link to view
+https://emirateselevateproject.vercel.app/ 
+
 ---
 
 ### ⚠️ Important Notice & Disclaimer
